@@ -19,14 +19,14 @@ Use the table below to rate and provide constructive feedback. Your assessment s
 **Resume Reviewed:** Yes / No  
 **Resume Feedback Summary:** _(Optional – strengths, gaps, clarity, alignment with agentic AI roles)_
 
-**Reviewed By (Participant 1):**
+**Reviewed By Mariel Calderon:**
 
 | Criteria           | Rating (1-5) | Comments                       |
 |--------------------|--------------|--------------------------------|
-| Technical Knowledge|              |                                |
-| Storytelling       |              |                                |
-| English            |              |                                |
-| Resume Quality     |              |                                |
+| Technical Knowledge|      5       | Demonstrated proficiency in LLM fundamentals, including agent design patterns and orchestration tools |
+| Storytelling       |      5       | Articulated a logical reasoning process and effectively connected foundational LLM principles to practical application                               |
+| English            |      5       | Kept the discussion organized and fluid from start to finish.                               |
+| Resume Quality     |      4       | Resume organization is solid; however, bullet points could be enhanced by emphasizing impact and metrics. Incorporate measurable results and more detail on project scale and technologies used.                               |
 
 ---
 
